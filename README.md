@@ -11,20 +11,15 @@ I’ve tested and updated all the code from the book’s chapters, ensuring comp
 # 📖About the Project
 
 Based on the book Black Hat Python (2nd Edition).
-
 All examples have been rewritten, tested, and improved.
-
 Updated to work with modern Python 3.x and actively maintained libraries.
-
 Structured by chapters for easy reference and learning.
 
 
 # Prerequisites
 
 Python 3.9+
-
 Git
-
 Recommended: Linux/Kali environment for networking and security tools
 
 
