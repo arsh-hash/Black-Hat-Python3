@@ -1,9 +1,11 @@
 # 🐍 Black Hat Python 3 — Updated & Working Code
 
 > All source code from **Black Hat Python, 2nd Edition** (Justin Seitz & Tim Arnold)  
-> rewritten, tested, and modernized for **Python 3.x** in 2024–2025.
+> rewritten, tested, and modernized for **Python 3.x** in 2025–2026.
 
-Most repos for this book have broken code. This one runs.
+Other repos for this book have broken code. This one runs.
+
+<img src="https://raw.githubusercontent.com/arsh-hash/Black-Hat-Python3/refs/heads/main/images/black-hat-python.png" alt="Black Hat Python" width="300"/>
 
 ---
 
